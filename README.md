@@ -1,0 +1,2 @@
+# AACHIP-ALTERA-SVF-PROGRAM
+AACHIP ALTERA SVF PROGRAM，透過 JTAG 執行 SVF 檔案，供支援的 Altera／Intel FPGA、CPLD 進行燒錄、組態設定及測試。
